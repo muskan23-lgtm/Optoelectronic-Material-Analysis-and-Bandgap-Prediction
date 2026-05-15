@@ -220,17 +220,8 @@ The trained model predicts the optical bandgap and reports error metrics.
 
 ---
 
-## Resume Project Description
 
-```text
-Optoelectronic Material Analysis and Bandgap Prediction | Python, NumPy, Pandas, Matplotlib, Scikit-learn
-- Developed a Python-based workflow for analyzing semiconductor and optoelectronic material datasets.
-- Implemented UV-Vis absorbance analysis, Tauc plot based optical bandgap extraction, PL peak analysis, I-V characteristics, and EQE visualization.
-- Built a machine learning model to predict material bandgap using composition and physical descriptors.
-- Generated publication-style plots and reproducible scripts for experimental/simulation data analysis.
-```
 
----
 
 ## Future Improvements
 
